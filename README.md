@@ -1,0 +1,1 @@
+﻿简单提取特征，每天的高峰期peak_time，与工作日worktime，以及高峰月peak_mon，加上时间进行预测，现在由于电脑内存小，只尝试了household_power_consumption_1000.txt，而总的数据household_power_consumption.txt没有尝试，有些特征可能未起作用，但是不加这些特征之前准确率高
